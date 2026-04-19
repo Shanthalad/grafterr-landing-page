@@ -1,0 +1,29 @@
+{
+  "hero": {
+    "headlinePrefix": "We are a",
+    "headlineGradient": "technology provider",
+    "subheadline": "Helping restaurants grow with smart solutions",
+    "cta": "Get Started"
+  },
+
+
+  "featuresSection": {
+    "title": "Solutions to",
+    "titleAccent": "grow your business",
+    "subtitle": "All-in-one platform",
+    "products": [
+      {
+        "title": "Point of Sale",
+        "desc": "Manage orders easily"
+      },
+      {
+        "title": "Self Service",
+        "desc": "Customer self ordering"
+      },
+      {
+        "title": "Kitchen Management",
+        "desc": "Streamline kitchen ops"
+      }
+    ]
+  }
+}
